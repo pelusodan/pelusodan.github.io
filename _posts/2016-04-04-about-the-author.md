@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
+title: "About The Author"
+author: "Dan Peluso"
 categories: facts
 tags: [sample]
 image: 1.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hello! I'm Daniel Peluso, an undergraduate engineer at Northeastern University. This is my first website post, but I'll mostly be filling out the projects section to showcase some of the things I've worked on. Thanks for checking out!
