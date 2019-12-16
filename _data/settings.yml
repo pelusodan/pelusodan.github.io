@@ -10,7 +10,7 @@ menu:
 - {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
 - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Resume', folder: 'pages', file: 'resume.md'}
+- {name: 'Resume', folder: 'pages', file: 'resume.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
