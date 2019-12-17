@@ -21,3 +21,29 @@ author:              "Daniel Peluso"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+
+
+plugins:
+  - jektify
+
+jektify:
+  enable: true
+  open: false
+  toggle:
+    enable: true
+  spotify:
+    user: pelusodan
+    text: Hide
+  sass:
+    jekyll: true
+    other:
+      dir: "way/to/your/SASS"
+  title:
+    enable: true
+    text: "Jektify"
+  description:
+    enable: true
+    text: |
+      Jekyll plugin to generate html snippets for embedding Spotify Musics.
+      To listen to the full song, open your Spotify and start these musics.

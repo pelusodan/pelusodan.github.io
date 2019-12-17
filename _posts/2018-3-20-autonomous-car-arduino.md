@@ -13,11 +13,11 @@ For my Cornerstone of Engineering class, I worked with a team of students to bui
 
 For the project, our team was not only required to model the vehicle in Solidworks (see above), but also to simulate the design using MATLAB. The team thought this extra step would be unnecessary, but was proven wrong when our simulations led us to improve a design from this:
 
-![before_matlab](\assets\img\sel_driving_car\MatlabSimulationResults.jpg)
+![before_matlab](\assets\img\self_driving_car\MatlabSimulationResults.jpg)
 
 to this:
 
-![after_matlab](\assets\img\sel_driving_car\SimulationPathEx1.png)
+![after_matlab](\assets\img\self_driving_car\SimulationPathEx1.png)
 
 Here are some screenshots of my Arduino Program:
 
