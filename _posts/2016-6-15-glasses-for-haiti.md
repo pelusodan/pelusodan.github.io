@@ -11,7 +11,7 @@ In 2016 for my Eagle Scout project, I raised $15,000 to bring prescription glass
 
 The project was originally rejected from the National BSA for being too ambitious, costing too much, and completing work in too dangerous an area. Unfortunately, I was not willing to accept this rejection, and moved forward with raising the $15,000 without support from BSA. I completed the 1 week trip in June 2016 and gave over 600 individuals glasses. Here's a short video I made after the project to showcase the team's success.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/KHHIIPzIUtM" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube.com/embed/KHHIIPzIUtM" frameborder="0" allowfullscreen></iframe>
 
 
 # Presentation
