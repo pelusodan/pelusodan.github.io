@@ -11,7 +11,7 @@ For my Cornerstone of Engineering class, I worked with a team of students to bui
 
 ## Simulation
 
-For the project, our team was not only required to model the vehicle in Solidworks (see above), but also to simulate the design using MATLAB. The team thought this extra step would be unecessary, but was proven wrong when our simualations led us to improve a design from this:
+For the project, our team was not only required to model the vehicle in Solidworks (see above), but also to simulate the design using MATLAB. The team thought this extra step would be unnecessary, but was proven wrong when our simulations led us to improve a design from this:
 
 ![before_matlab](\assets\img\sel_driving_car\MatlabSimulationResults.jpg)
 
@@ -21,10 +21,10 @@ to this:
 
 Here are some screenshots of my Arduino Program:
 
-![arduino1](\assets\img\sel_driving_car\Arduino1.PNG)
-![arduino2](\assets\img\sel_driving_car\Arduino2.PNG)
-![arduino3](\assets\img\sel_driving_car\Arduino3.PNG)
-![arduino4](\assets\img\sel_driving_car\Arduino4.PNG)
+![arduino1](\assets\img\self_driving_car\Arduino1.jpg)
+![arduino2](\assets\img\self_driving_car\Arduino2.jpg)
+![arduino3](\assets\img\self_driving_car\Arduino3.jpg)
+![arduino4](\assets\img\self_driving_car\Arduino4.jpg)
 
 
 # Skills
