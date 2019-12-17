@@ -29,8 +29,4 @@ gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'
 
 # This is for the spotify link to your album
-gem 'jektify'
-
-group :jekyll_plugins do
-  gem "jektify"
-end
+gem 'jekyll-spotify'
