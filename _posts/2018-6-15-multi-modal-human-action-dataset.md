@@ -21,7 +21,7 @@ The summer of 2018 I moved in a more skilled position at SMILE lab, where I tune
 # Download
 
 Here is the paper
-<embed src="https://pelusodan.github.io/assets/multi_modal.pdf" type="application/pdf" width="800" height="400"/>
+<embed src="https://pelusodan.github.io/assets/multi_modal.pdf" type="application/pdf" width="850" height="1100"/>
 
 
 # Skills
