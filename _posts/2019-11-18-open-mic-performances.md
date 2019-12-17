@@ -4,7 +4,7 @@ title: "Open Mic Performances"
 author: "Dan Peluso"
 categories: music
 tags: [music,spotify,indie,self-produced,guitar,sing, bass]
-image: bass_house.jpg
+image: guitar_acoustic.jpg
 ---
 
 My most recent musical work has been working on a new album, this time around in collaboration with my good friend Adrian Duffey.
