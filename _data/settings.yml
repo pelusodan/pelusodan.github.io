@@ -7,8 +7,8 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Philanthropy', folder: 'pages', file: 'philanthropy.html'}
 - {name: 'Programming', folder: 'pages', file: 'programming.html'}
+- {name: 'Philanthropy', folder: 'pages', file: 'philanthropy.html'}
 - {name: 'Music', folder: 'pages', file: 'music.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Resume', folder: 'pages', file: 'resume.html'}
