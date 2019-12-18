@@ -24,8 +24,6 @@ Especially proud of this ride (top speed 56mph down Bald Eagle Mountain in PA)
 
 ![chicago_pose](\assets\img\chicago_carlie.JPG)
 
-![cow_pet](\assets\img\cow_pet.jpg)
-
 ![snap_pose](\assets\img\snapchat_dad_fit.jpg)
 
 ![carlie](\assets\img\beartooth_pass_carlie.jpg)
