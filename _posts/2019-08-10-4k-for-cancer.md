@@ -24,7 +24,7 @@ Especially proud of this ride (top speed 56mph down Bald Eagle Mountain in PA)
 
 ![chicago_pose](\assets\img\chicago_carlie.JPG)
 
-![cow_pet](\assets\img\cow_pet.jpg)
+![hotdog](\assets\img\glacier_dinner_hotdogs.jpg)
 
 ![snap_pose](\assets\img\snapchat_dad_fit.jpg)
 
@@ -37,3 +37,5 @@ Especially proud of this ride (top speed 56mph down Bald Eagle Mountain in PA)
  <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2588464264/embed/3c840ee16a449ccb10990c5843b6553c577c4d93'></iframe>
 
 ![cascades](\assets\img\north_cascades.jpg)
+
+![seattle](\assets\img\early_morning_bike.JPG)
