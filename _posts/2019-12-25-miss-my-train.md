@@ -104,7 +104,6 @@ data class Data(
 
 Thanks to data classes in Kotlin, creating these were a breeze. After manually doing them, I found out about JSON to Kotlin plugins that make these automatically. When I need more fields from my responses, I will definitely consider using this plugin in future projects.
 
-![penny_bike](\assets\img\pennyslvania_bike.jpg)
 ![main_screen_milestone_1](\assets\img\miss_my_train.jpg)
 
 # Skills
