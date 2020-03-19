@@ -2,7 +2,7 @@
 layout: post
 title: "Personal Website"
 author: "Dan Peluso"
-categories: programming
+categories: tech
 tags: [programming, design, website, portfolio]
 image: idaho_sunset.jpg
 ---

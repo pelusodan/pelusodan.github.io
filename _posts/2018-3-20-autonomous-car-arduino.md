@@ -2,7 +2,7 @@
 layout: post
 title: "Self Driving Car"
 author: "Dan Peluso"
-categories: programming
+categories: tech
 tags: [arduino,alcohol_sensor,matlab]
 image: self_drive.jpg
 ---
