@@ -2,7 +2,7 @@
 layout: post
 title: "Multi Modal Human Action Dataset"
 author: "Dan Peluso"
-categories: tech
+categories: programming
 tags: [matlab,vicon,SMILE,machine-learning,ai,dataset]
 image: smile_paper.jpg
 ---

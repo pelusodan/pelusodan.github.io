@@ -6,7 +6,7 @@ disqus:
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: ''
 
-<<<<<<< HEAD
+menu:
 - {name: 'Programming', folder: 'pages', file: 'programming.html'}
 - {name: 'Philanthropy', folder: 'pages', file: 'philanthropy.html'}
 - {name: 'Music', folder: 'pages', file: 'music.html'}
