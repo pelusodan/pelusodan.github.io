@@ -390,7 +390,7 @@ The final result is a much prettier screen, with a gradient of chance you'll be 
 ![main_screen_milestone_2](\assets\img\miss_my_train_img\miss_my_train_green.png)
 
 ## Future work
-My main goals in the project were to familiarize myself with some popular Android libraries used in many commercial applications. I definitely think the gradient is a cool view for the app, but I don't think this is a unique concept, so I won't be adding in new features in the near future. If I do choose to flesh out MissMyTrain more it'll be to add settings for users to pick which Station they'd like to receive train information about and where they're walking from. This would be much more customizable than my current hardcoded method of displaying the information. I
+My main goals in the project were to familiarize myself with some popular Android libraries used in many commercial applications. I definitely think the gradient is a cool view for the app, but I don't think this is a unique concept, so I won't be adding in new features in the near future. If I do choose to flesh out MissMyTrain more it'll be to add settings for users to pick which Station they'd like to receive train information about and where they're walking from. This would be much more customizable than my current hardcoded method of displaying the information. 
 
 # Skills
 - Android
