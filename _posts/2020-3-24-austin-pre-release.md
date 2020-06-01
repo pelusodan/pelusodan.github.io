@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Austin"
+title: "Austin Pre Release"
 author: "Dan Peluso"
 categories: music
 tags: [music,spotify,indie,self-produced,guitar,sing, bass, piano, bass, bedroom pop, pop]
