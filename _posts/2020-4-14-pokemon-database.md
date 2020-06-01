@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pokemon Database"
+title: "Pokemon Database (Android, Python, MySql)"
 author: "Dan Peluso"
 categories: programming
 tags: [android, kotlin, mysql, python, flask, recyclerView,APIs, pokemon]

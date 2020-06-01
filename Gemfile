@@ -30,3 +30,6 @@ gem 'jekyll-seo-tag'
 
 # This is for the spotify link to your album
 # gem 'jekyll-spotify'
+
+# gem to show gists for cleaner code showing off :)
+gem 'jekyll-gist'
