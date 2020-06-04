@@ -4,7 +4,7 @@ title: "Concentration Game (iOS)"
 author: "Dan Peluso"
 categories: programming
 tags: [programming, swift, mobile, ios, xcode, mac, mvc]
-image: concentration/fullscreen.png
+image: concentration/fullscreen2.png
 ---
 # Concentration
 ### A very shallow dive into the gorgeous world of iOS develpment
@@ -31,15 +31,27 @@ I can certainly understand the appeal of writing native iOS applications. I defi
 this will be my last iOS app.
 <script src="https://gist.github.com/pelusodan/164d604721ce40409d98cc8a76bbd7e5.js"></script>
 
+## Data Objects
+
+Below are some of the simple objects associated with this game. It's not surprising
+that Swift (given it's close relationship to C) has its reflection of Structs. I found
+it to be particularly helpful with the Card and Theme objects. Thanks to Gists
+I'm able to show the same emojis used in my themes in the static examples below.
+
+<script src="https://gist.github.com/pelusodan/f05ad2c1f9ccae49dafb2e6a079c4c64.js"></script>
+
+
+![screen5](\assets\img\concentration\screen5.png)
+
 
 ## Status
 
-Right now the app only counts flips and flips cards, but part of the iterative learning
-process is documenting your work. The app has one screen, and shows the same
-emojis at the same locations as pictured below:
+The game is currently working! I've added in 6 new themes, from which a random
+one will be chosen at the beginning of the new game. The flip counter resets with
+a new game. Next I'll probably be adding some better Swift coding practices and
+support for adaptable layouts. 
 
-![screen1](\assets\img\concentration\screen1.png)
-![screen2](\assets\img\concentration\screen2.png)
+![screen3](\assets\img\concentration\screen3.png) ![screen4](\assets\img\concentration\screen4.png)
 
 
 Stay tuned for more updates!
