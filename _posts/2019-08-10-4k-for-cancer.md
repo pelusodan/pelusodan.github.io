@@ -8,7 +8,7 @@ image: 2.jpg
 ---
 
 In the summer of 2019 I biked from Baltimore, Maryland to Seattle, Washington with
-a team of 30 young adults.
+a team of 30 young adults to raise money for the [Ulman Foundation]("https://4kforcancer.org/").
 
 Here are a collection of photographs from the trip that I think best summarize the experience
 

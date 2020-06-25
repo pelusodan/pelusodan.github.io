@@ -12,3 +12,5 @@ the Bike MS 2019 Key Largo ride! I flew out to Florida for the weekend and rode
 150 miles in 2 days!
 
 ![dad](\assets\img\florida_dad.jpg)
+
+Check out more about the ride [here]("https://secure.nationalmssociety.org/site/SPageServer?pagename=BIKE_HOM_splash")
