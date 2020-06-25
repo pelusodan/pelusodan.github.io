@@ -10,7 +10,7 @@ image: arch/computerArchFinalProject.png
 The code below is the top module for a CPU which uses the ARMv8 instruction set.
 This processor is capable of utilizing the following instructions:
 
-![instructions](\assets\img\arch\finalInsSet.png)
+![instructions](\assets\img\arch\finalInsSet.PNG)
 
 For this particular model, the instruction set is given as an array of instructions,
 and given the 4-cycle delay should produce the correct values in the destination register.
@@ -21,7 +21,7 @@ a tristate buffer to use the memory 'Databus' as both an input and output.
 
 I calculated the IPC to be ~.67, which I explain below:
 
-![ipc](\assets\img\arch\ipc_png.png)
+![ipc](\assets\img\arch\ipc_png.PNG)
 
 
 For easier reading, I put all the submodules directly below the top module.
