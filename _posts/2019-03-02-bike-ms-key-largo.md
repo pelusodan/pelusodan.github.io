@@ -13,4 +13,4 @@ the Bike MS 2019 Key Largo ride! I flew out to Florida for the weekend and rode
 
 ![dad](\assets\img\florida_dad.jpg)
 
-Check out more about the ride [here]("https://secure.nationalmssociety.org/site/SPageServer?pagename=BIKE_HOM_splash")
+Check out more about the ride <a href="https://secure.nationalmssociety.org/site/SPageServer?pagename=BIKE_HOM_splash" title="Bike MS">here</a>
