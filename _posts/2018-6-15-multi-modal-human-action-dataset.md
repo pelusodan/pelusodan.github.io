@@ -16,9 +16,9 @@ My next work was with data labeling and collection. This is when I moved over to
 
 ![mocap_suit](\assets\img\mocap.jpg)
 
-The summer of 2018 I moved in a more skilled position at SMILE lab, where I tuned hyperparameters for the various models we were testing on our dataset. My responsibilities here were to learn the models my director wanted to add to the paper, and run MATLAB scripts to automate different hyperparameter combination. This work was computed in the school's *discovery cluster*, which was available through SSH and lab credentials.
+The summer of 2018 I moved in a more skilled position at SMILE lab, where I tuned hyperparameters for the various models we were testing on our dataset. My responsibilities here were to learn the models my director wanted to add to the paper, and run MATLAB scripts to automate different hyperparameter combinations. This work was computed in the school's *discovery cluster*, which was available through SSH and lab credentials.
 
-# Download
+# Paper
 
 Here is the paper
 <embed src="https://pelusodan.github.io/assets/multi_modal.pdf" type="application/pdf" width="850" height="1100"/>

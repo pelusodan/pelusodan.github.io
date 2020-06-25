@@ -3,7 +3,7 @@ layout: post
 title: "ARM Processor (Verilog)"
 author: "Dan Peluso"
 categories: programming
-tags: [programming, verilog, architecture, ARM, vivado]
+tags: [verilog, architecture, ARM, vivado]
 image: arch/computerArchFinalProject.png
 ---
 

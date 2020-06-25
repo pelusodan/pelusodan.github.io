@@ -3,7 +3,7 @@ layout: post
 title: "Miss My Train (Android)"
 author: "Dan Peluso"
 categories: programming
-tags: [programming, design, rxjava, android, retrofit]
+tags: [programming, design, rxjava, android, retrofit, mobile]
 image: miss_my_train_img/miss_my_train_rx.png
 ---
 

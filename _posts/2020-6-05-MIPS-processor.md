@@ -3,7 +3,7 @@ layout: post
 title: "MIPS Processor (Verilog)"
 author: "Dan Peluso"
 categories: programming
-tags: [programming, verilog, architecture, mips, vivado]
+tags: [verilog, architecture, mips, vivado]
 image: arch/a7.png
 ---
 

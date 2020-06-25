@@ -3,7 +3,7 @@ layout: post
 title: "Pokemon Database (Android, Python, MySql)"
 author: "Dan Peluso"
 categories: programming
-tags: [android, kotlin, mysql, python, flask, recyclerView,APIs, pokemon]
+tags: [android, kotlin, mysql, python, flask, recyclerView,APIs, pokemon, mobile]
 image: pokemon/select_activity.png
 ---
 The following is a brief description of how to use the software I wrote for the [project repo](https://github.com/pelusodan/PokemonDatabaseAndroidApp). Our team modularized the project into 3 main components, of which I did all the Android for.
