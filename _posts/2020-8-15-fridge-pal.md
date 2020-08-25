@@ -20,7 +20,7 @@ main list.
 My goals with this project are:
 - learn Flutter basic widgets and architecture
 - implement animations and thawed-out design
-- test implementations on iOS, Android, and <a href="/flutter/test">web app</a>
+- test implementations on iOS, Android, and <a href="/flutter/fridgepal">web app</a>
 - implement CRUD operations (on mobile)
 
 ![](\assets\img\fridge_pal\android.png)
@@ -156,7 +156,7 @@ This means that I cannot publish this application to the web, as SQLite isn't co
 applications across all the possible platforms, so I hope to be able to
 share more of my Flutter projects on my personal site.
 
-Because I was very eager to add the project to my website, I created a new local repo which removed all SQLite dependencies from the `Fridge` class. You can check out the  web version <a href="/flutter/test">here</a>!
+Because I was very eager to add the project to my website, I created a new local repo which removed all SQLite dependencies from the `Fridge` class. You can check out the  web version <a href="/flutter/fridgepal">here</a>!
 
 
 ### Skills
