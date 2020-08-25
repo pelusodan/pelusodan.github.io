@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FridgePal"
+title: "FridgePal (Flutter)"
 author: "Dan Peluso"
 categories: programming
 tags: [android, mobile, flutter, web, ios, dart]
