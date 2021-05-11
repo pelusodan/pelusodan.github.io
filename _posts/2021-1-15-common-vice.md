@@ -33,4 +33,4 @@ I hope you enjoy the final product below!
 {% include spotifyAlbum.html id="702ahHlBL3mCvggDuL2Ozb" %}
 
 ### Spotify Description
-*Common Vice was created in the freshman dorm halls of Northeastern University, where Adrian Duffey (keys, horn, vocals) and Dan Peluso (guitar, vocals, rhythm) first began playing together in 2018. During Quarantine the two learned to mix and record their own instrumentals, and spent nearly all their time mixing their day bout album, 'Common Vice'.  The resulting sound aims to expose the many follies of a drunken night in the city. Using heavy bass, synth layering, and skits, the album is a creative blend of genres.*
+*Common Vice was created in the freshman dorm halls of Northeastern University, where Adrian Duffey (keys, horn, vocals) and Dan Peluso (guitar, vocals, rhythm) first began playing together in 2018. During Quarantine the two learned to mix and record their own instrumentals, and spent nearly all their time mixing their debut album, 'Common Vice'.  The resulting sound aims to expose the many follies of a drunken night in the city. Using heavy bass, synth layering, and skits, the album is a creative blend of genres.*

@@ -2,24 +2,8 @@
 layout: misc
 title: About
 ---
+Thanks for stopping by! This is a showcase of the some of the projects I've worked on or am currently developing. I recently graduated Northeastern University with a B.S. in Computer Engineering and a minor in Computer Science. Professionally, I work as a mobile developer for WHOOP. In my spare time I work on open source projects, write indie rock music, and complete philanthropy projects athletically. If not behind a desk or bike, I'm most certainly in the mountains.
 
-This is a website I've created to showcase my projects. I am currently an undergraduate at Northeastern University where I study Computer Engineering and Computer Science. My interests are mainly mobile development (mostly Android, learning Flutter and iOS), machine learning, and backend software engineering. Aside from school and work I complete projects for philanthropic, technical, and musical goals. In the future I hope to better document what I'm working on and share my work on this page. If you have any questions or comments, please feel free to reach out to me. Thanks!
+If you have any questions or comments, please feel free to reach out to me. Thanks!
 
-![solo](\assets\img\bench_mannequin.JPG)
-
-<!-- THIS IS THE TEMPLATE THAT HEADER PAGES AND POSTS SHOULD follow
-
-
-```
----
-layout:
-title:
-author:
-categories:
-tags: []
-image:
----
-```
-
-
- -->
+![solo](\assets\img\ski_jump.gif)
